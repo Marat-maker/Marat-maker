@@ -1,20 +1,43 @@
-[![MasterHead](https://www.sony.com.tr/alphauniverse/stories/cool-shots-winter-landscapes)
-<h1 align="center">Hi 👋, I'm AtamyratHalbayev</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<div align="center">
+  <img src="example-2.png" alt="MasterHead" width="100%" />
+</div>
 
-- 📫 How to reach me **atamyrathalbayew0@gmail.com**
+<div align="center">
+  <h1>Hi 👋, I'm AtamyratHalbayev</h1>
+  <h3>A passionate frontend developer from Turkey</h3>
+  <p>📫 How to reach me: <strong>atamyrathalbayew0@gmail.com</strong></p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/marrat.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marrat.h" height="30" width="40" /></a>
-</p>
+<hr />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Connect with me:</h3>
+      <a href="https://instagram.com/marrat.h" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marrat.h" height="35" width="45" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Languages and Tools:</h3>
+      <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
+      </a>
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+      </a>
+      <a href="https://isocpp.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marat-maker&show_icons=true&locale=en&layout=compact" alt="marat-maker" /></p>
+<hr />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marat-maker&show_icons=true&locale=en" alt="marat-maker" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marat-maker&" alt="marat-maker" /></p>
-
+<div align="center">
+  <h3>GitHub Stats:</h3>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=marat-maker&theme=dark" alt="marat-maker" />
+  </p>
+</div>
