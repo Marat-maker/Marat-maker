@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Hi 👋, I'm AtamyratHalbayev</h1>
+  <h1>Hi 👋, I'm Atamyrat Halbayev</h1>
   <h3>A passionate Software Developer Student.</h3>
   <p>📫 How to reach me: <strong>atamyrathalbayew0@gmail.com</strong></p>
 </div>
