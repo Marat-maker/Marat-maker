@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="banner.gif" alt="MasterHead" width="100%" />
+  <img src="github-banner.jpg" alt="MasterHead" width="100%" />
 </div>
 
 <div align="center">
   <h1>Hi 👋, I'm AtamyratHalbayev</h1>
-  <h3>A passionate frontend developer from Turkey</h3>
+  <h3>A passionate Software Developer Student.</h3>
   <p>📫 How to reach me: <strong>atamyrathalbayew0@gmail.com</strong></p>
 </div>
 
